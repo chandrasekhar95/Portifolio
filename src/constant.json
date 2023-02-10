@@ -1,0 +1,48 @@
+{
+    "experiences": [
+        {
+            "company": "Microsoft",
+            "link": "/",
+            "title": "Frontend Developer",
+        
+            "desc": [
+               "I want do a internship with microsoft as role off frontend developer."
+            ]
+        },
+        {
+            "company": "Apple",
+            "link": "/",
+
+            "desc": [
+               "I want do a job  with Apple Company as role off backend developer."
+            ]
+        },
+        {
+            "company": "Google",
+            "link": "/",
+            "title": "Internship",
+            
+            "desc": [
+                "I want do a internship with Google."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title":"Cofee cafe",
+            "image": "./images/project_1.png",
+            "desc": "I am done a project on react cofee cafe.",
+            "skills": ["React", "Express", "MongoDB"],
+            "github": "/",
+            "link": ""
+        },
+        {
+            "title":"Spotify",
+            "image": "./images/project_2.png",
+            "desc": "I am done a project on react Spotify.",
+            "skills": ["React", "Express", "MongoDB"],
+            "github": "/",
+            "link": "/"
+        }
+    ]
+}
